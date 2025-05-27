@@ -61,8 +61,11 @@ python manage.py test
 - Error scenarios (404, invalid currency, etc.)
 
 📬 API Collection (Postman)
+
 You can test all endpoints using the provided Postman collection:
+
 👉 Import postman_collection.json into Postman
+
 🧪 Covers all request types and use-cases
 
 📌 Notes
